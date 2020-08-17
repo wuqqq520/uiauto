@@ -1,0 +1,13 @@
+{
+"Find":{"type":"xpath","value":"//android.view.View[@resource-id='com.ellabookhome:id/toolbar']/android.widget.TextView[2]"},
+"WIKI1":{"type":"xpath","value":"//android.support.v7.widget.RecyclerView[@resource-id='com.ellabookhome:id/recyclerView']/android.widget.LinearLayout[1]"},
+"WIKI2":{"type":"xpath","value":"//android.support.v7.widget.RecyclerView[@resource-id='com.ellabookhome:id/recyclerView']/android.widget.LinearLayout[2]"},
+"WIKI3":{"type":"xpath","value":"//android.support.v7.widget.RecyclerView[@resource-id='com.ellabookhome:id/recyclerView']/android.widget.LinearLayout[3]"},
+"WIKI4":{"type":"xpath","value":"//android.support.v7.widget.RecyclerView[@resource-id='com.ellabookhome:id/recyclerView']/android.widget.LinearLayout[4]"},
+"book_note":{"type":"id","value":"com.ellabookhome:id/book"},
+"search_edit":{"type":"id","value":"com.ellabookhome:id/search_edit_text"},
+"act_bookDetail":{"type":"Activity","value":"com.ellabook.books.detail.BookDetailActivity1"},
+"input_phone":{"type":"id","value":"com.ellabookhome:id/phone"},
+"input_password":{"type":"id","value":"com.ellabookhome:id/password"},
+"logon":{"type":"xpath","value":"//android.widget.Button[@text='µÇÂ¼']"}
+}
